@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Travaux
-  target: "/projets/"
+  target: "/travaux/"
   kind: page
   children: []
 - title: Agenda
