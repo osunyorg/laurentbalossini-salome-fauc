@@ -3,7 +3,15 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
+  breadcrumb:
+    position: none
   summary:
     position: hero
   search:
-    active: false  
+    active: false
+  seo:
+    title:
+      separator: "•"
+  logo:
+    header: "/assets/images/logo.svg"
+    footer: "/assets/images/logo-blanc.svg"
