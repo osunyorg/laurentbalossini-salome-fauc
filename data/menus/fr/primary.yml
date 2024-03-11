@@ -1,20 +1,20 @@
 ---
 title: Menu principal
 items:
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  children: []
 - title: Projets
   target: "/projets/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
+- title: À propos
+  target: "/a-propos/"
   kind: page
   children: []
 - title: Agenda
   target: "/agenda/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 - title: Équipe
