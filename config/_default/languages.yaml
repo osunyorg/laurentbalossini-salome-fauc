@@ -11,8 +11,8 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
-    projects: /projets/:year-:slug/
-    projects_categories: /projets/:slug/
+    projects: /travaux/:year-:slug/
+    projects_categories: /travaux/:slug/
   taxonomies:
     administrator: administrators
     author: authors
