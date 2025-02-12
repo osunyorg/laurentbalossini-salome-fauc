@@ -2,6 +2,11 @@
 
 baseURL: https://salome-fauc.laurentbalossini.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 494fa3e8-8e61-4ef4-affc-4e5ae1f756bd
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
