@@ -10,3 +10,6 @@ params:
   seo:
     title:
       separator: "•"
+  logo:
+    header: ""
+    footer: ""
