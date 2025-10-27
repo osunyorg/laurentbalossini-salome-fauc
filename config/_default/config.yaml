@@ -10,6 +10,3 @@ params:
   seo:
     title:
       separator: "•"
-  logo:
-    header: "/assets/images/logo.svg"
-    footer: "/assets/images/logo-blanc.svg"
