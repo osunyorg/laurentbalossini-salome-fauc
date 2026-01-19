@@ -1,5 +1,8 @@
-header#document-header,
 footer#document-footer
-    .logo
-        .logo-text
-            @include meta
+    @include media-breakpoint-up(desktop)
+        .footer-legals
+            display: flex
+            .nav-legal
+                margin-right: $spacing-3
+            .footer-credit
+                margin-top: 0
