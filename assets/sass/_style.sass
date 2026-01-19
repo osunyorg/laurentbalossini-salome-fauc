@@ -6,12 +6,17 @@
                 h1 
                     > span
                         @include body-text
-                        line-height: 130%
+                        line-height: 140%
                         margin-top: $spacing-3
         figure
             display: none
         .dropdown-share
             position: relative
+.project
+    .project-content
+        .project-subtitle
+            @include body-text
+            line-height: 140%
 footer#document-footer
     @include media-breakpoint-up(desktop)
         .footer-legals
