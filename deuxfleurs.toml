@@ -13,12 +13,3 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
-
-[[redirects]]
-from = "/agenda/2024-03-08-et-comme-une-faience-bleue/"
-to = "/agenda/2024/et-comme-une-faience-bleue/"
-
-[[redirects]]
-from = "/projets/"
-to = "/travaux/"
-
