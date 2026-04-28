@@ -14,3 +14,11 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/agenda/2024-03-08-et-comme-une-faience-bleue/index.html"
+to = "/agenda/2024/et-comme-une-faience-bleue/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/travaux/"
+
